@@ -5,7 +5,7 @@ commit就可以一次性把暂存区的所有修改提交到分支。
 - `> git init`  把当前目录变成仓库
 - `> git add readme.txt`  把文件readme.txt添加到仓库
 - `> git commit -m "wrote a readme file"`   把文件提交到仓库
-- `> git commit -a"`   自动把跟踪文件提交到仓库
+- `> git commit -a`   自动把跟踪文件提交到仓库
 - `> git status `   查看当前修改情况
 - `> git diff readme.txt`   查看readme.txt文件修改内容
 - `> git log`   查看历史
