@@ -55,7 +55,7 @@ git push --force <远程主机名>
 
 [read more git from 阮一峰](http://www.ruanyifeng.com/blog/2014/06/git_remote.html)
 
-![http://image.beekka.com/blog/2014/bg2014061202.jpg]()
+![git](http://image.beekka.com/blog/2014/bg2014061202.jpg)
 
 
 
